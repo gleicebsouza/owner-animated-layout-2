@@ -1,4 +1,9 @@
-/* Responsividade, Animações e transições*/
+/*
+[] Responsividade
+[] Animações no CSS
+[] Transições e transformações no CSS
+[] Grid layout
+*/
 
 * {
   margin: 0;
@@ -71,9 +76,10 @@ h1 {
 main {
   width: 100%;
   color: var(--color-heading);
-  margin: 0 auto;
+
   display: grid;
   gap: 1.6rem;
+  margin: 0 auto;
 }
 img {
   width: 100%;
@@ -134,7 +140,8 @@ img {
   transform: scale(1.2);
 }
 
-/* MEDIAS QUERIES */
+/* MEDIAS QUERIES 
+Responsividade com @media*/
 
 @media (min-width: 700px) {
   .page {
@@ -155,8 +162,7 @@ img {
   }
 }
 
-/* REGRAS DE ANIMAÇÕES
-*/
+/* REGRAS DE ANIMAÇÕES */
 @keyframes slide {
   0% {
     transform: translateY(-25px);
