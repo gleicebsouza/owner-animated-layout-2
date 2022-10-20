@@ -8,7 +8,7 @@
 - [ ]  Conceitos e utilização de Grid Layout
 
 
-## 💻 DEPLOY 
+## 💻 Deploy
 https://animated-layout-2.vercel.app/
 
 ## 🔖 Layout Final
