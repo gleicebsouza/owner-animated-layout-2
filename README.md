@@ -1,12 +1,11 @@
 # animated-layout-2
 
-- [ ]  Aplicar o conceito de mobile-first
-- [ ]  Aplicar unidades de medidas relativas
-- [ ]  Utilizar breakpoints @media
-- [ ]  Utilizar variáveis no CSS
-- [ ]  Utilizar transições, transformações e Animações no CSS
-- [ ]  Conceitos e utilização de Grid Layout
-
+- [x]  Aplicar o conceito de mobile-first
+- [x]  Aplicar unidades de medidas relativas
+- [x]  Utilizar breakpoints @media
+- [x]  Utilizar variáveis no CSS
+- [x]  Utilizar transições, transformações e Animações no CSS
+- [x]  Conceitos e utilização de Grid Layout
 
 ## 💻 Deploy
 https://animated-layout-2.vercel.app/
