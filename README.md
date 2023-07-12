@@ -9,6 +9,7 @@
 
 ## 💻 DEPLOY ##
 https://animated-layout-2.vercel.app/
+http://gleice.dev/owner-animated-layout-2/
 
 ## 🔖 PROJETO
 ![image](https://user-images.githubusercontent.com/61830297/190839669-7b51395f-8d45-4ed6-a8b3-1475cabafd56.png)
