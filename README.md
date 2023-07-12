@@ -7,8 +7,8 @@
 - [x]  Utilizar transições, transformações e Animações no CSS
 - [x]  Conceitos e utilização de Grid Layout
 
-## 💻 Deploy
+## 💻 DEPLOY ##
 https://animated-layout-2.vercel.app/
 
-## 🔖 Layout Final
+## 🔖 PROJETO
 ![image](https://user-images.githubusercontent.com/61830297/190839669-7b51395f-8d45-4ed6-a8b3-1475cabafd56.png)
